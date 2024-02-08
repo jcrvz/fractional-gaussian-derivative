@@ -1,5 +1,5 @@
 # Fractional Gaussian Derivative based on Caputo-Fabrizio
-Codes related to the manuscript: [Gaussian–based Caputo–Fabrizio fractional derivative](https://www.sciencedirect.com/science/article/abs/pii/S100757041830025X)
+Codes related to the manuscript: [A closed form expression for the Gaussian–based Caputo–Fabrizio fractional derivative for signal processing applications](https://www.sciencedirect.com/science/article/abs/pii/S100757041830025X)
 
 **Main codes:**
 * `imagesApplication.m`
